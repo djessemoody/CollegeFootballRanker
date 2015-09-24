@@ -1,690 +1,920 @@
 tcu
+HOME
 minnesota
 
 georgia tech
+@
 alcorn state
 
 arizona
+@
 utsa
 
 hawaii
+@
 colorado
 
 florida international
+HOME
 ucf
 
 south carolina
+@
 north carolina
 
 wake forest
+@
 elon
 
 oklahoma state
+HOME
 central michigan
 
 ball state
+@
 vmi
 
 connecticut
+@
 villanova
 
 western kentucky
+HOME
 vanderbilt
 
 utah
+@
 michigan
 
 ohio
+HOME
 idaho
 
 utah state
+@
 southern utah
 
 duke
+HOME
 tulane
 
 san jose state
+@
 new hampshire
 
 nevada
+@
 uc davis
 
 fresno state
+@
 abilene christian
 
 baylor
+HOME
 smu
 
 michigan state
+HOME
 western michigan
 
 boise state
+@
 washington
 
 charlotte
+HOME
 georgia state
 
 fordham
+HOME
 army
 
 syracuse
+@
 rhode island
 
 oregon state
+@
 weber state
 
 illinois
+@
 kent state
 
 alabama
+@
 wisconsin
 
 auburn
+@
 louisville
 
 oregon
+@
 eastern wash.
 
 usc
+@
 arkansas state
 
 georgia
+@
 louisiana-monroe
 
 florida state
+@
 texas state
 
 notre dame
+@
 texas
 
 clemson
+@
 wofford
 
 ucla
+@
 virginia
 
 texas a&m
+@
 arizona state
 
 mississippi
+@
 tennessee-martin
 
 arkansas
+@
 utep
 
 oklahoma
+@
 akron
 
 northwestern
+@
 stanford
 
 missouri
+@
 southeast mo. st.
 
 tennessee
+@
 bowling green
 
 navy
+@
 colgate
 
 rutgers
+@
 norfolk state
 
 maryland
+@
 richmond
 
 south dakota state
+HOME
 kansas
 
 iowa
+@
 illinois state
 
 pittsburgh
+@
 youngstown state
 
 boston college
+@
 maine
 
 portland state
+HOME
 washington state
 
 appalachian state
+@
 howard
 
 temple
+@
 penn state
 
 tulsa
+@
 fau
 
 byu
+HOME
 nebraska
 
 rice
+@
 wagner
 
 miami (ohio)
+@
 presbyterian
 
 texas tech
+@
 sam houston st.
 
 air force
+@
 morgan state
 
 old dominion
+HOME
 eastern michigan
 
 buffalo
+@
 albany
 
 indiana
+@
 southern ill.
 
 colorado state
+@
 savannah state
 
 north dakota
+HOME
 wyoming
 
 california
+@
 grambling
 
 north carolina state
+@
 troy
 
 east carolina
+@
 towson
 
 south alabama
+@
 gardner-webb
 
 miami (fla.)
+@
 bethune-cookman
 
 memphis
+@
 missouri state
 
 cincinnati
+@
 alabama a&m
 
 kentucky
+@
 louisiana-lafayette
 
 louisiana tech
+@
 southern univ.
 
 new mexico
+@
 miss. valley st.
 
 south florida
+@
 florida a&m
 
 middle tennessee
+@
 jackson state
 
 kansas state
+@
 south dakota
 
 northern illinois
+@
 unlv
 
 florida
+@
 new mexico state
 
 west virginia
+@
 georgia southern
 
 san diego state
+@
 san diego
 
 iowa state
+@
 uni
 
 houston
+@
 tennessee tech
 
 mississippi state
+HOME
 southern miss
 
 marshall
+@
 purdue
 
 ohio state
+HOME
 virginia tech
 
 western kentucky
+@
 louisiana tech
 
 utah
+@
 utah state
 
 miami (fla.)
+HOME
 florida atlantic
 
 ohio state
+@
 hawaii
 
 alabama
+@
 middle tennessee
 
 tcu
+@
 stephen f. austin state
 
 baylor
+@
 lamar
 
 michigan state
+@
 oregon
 
 auburn
+@
 jax st
 
 usc
+@
 idaho
 
 notre dame
+HOME
 virginia
 
 georgia
+HOME
 vanderbilt
 
 florida state
+@
 south florida
 
 clemson
+@
 appalachian state
 
 ucla
+HOME
 unlv
 
 lsu
+HOME
 mississippi state
 
 georgia tech
+@
 tulane
 
 texas a&m
+@
 ball state
 
 mississippi
+@
 fresno state
 
 toledo
+HOME
 arkansas
 
 oklahoma
+HOME
 tennessee
 
 byu
+@
 boise state
 
 missouri
+HOME
 arkansas state
 
 arizona
+HOME
 nevada
 
 wisconsin
+@
 miami (ohio)
 
 penn state
+@
 buffalo
 
 purdue
+@
 indiana state
 
 illinois
+@
 western illinois
 
 houston
+HOME
 louisville
 
 michigan
+@
 oregon state
 
 kansas state
+HOME
 utsa
 
 charlotte
+@
 presbyterian
 
 connecticut
+@
 army
 
 bowling green
+HOME
 maryland
 
 syracuse
+@
 wake forest
 
 boston college
+@
 howard
 
 washington
+@
 sacramento st.
 
 colorado
+@
 massachusetts
 
 texas tech
+@
 utep
 
 west virginia
+@
 liberty
 
 central michigan
+@
 monmouth
 
 virginia tech
+@
 furman
 
 southern miss
+@
 austin peay
 
 washington state
+HOME
 rutgers
 
 northern illinois
+@
 murray state
 
 minn
+HOME
 colorado state
 
 northwestern
+@
 eastern illinois
 
 eastern michigan
+HOME
 wyoming
 
 iowa
+HOME
 iowa state
 
 california
+@
 san diego state
 
 duke
+@
 north carolina central
 
 north carolina state
+@
 eastern kentucky
 
 kent state
+@
 delaware state
 
 georgia southern
+@
 western michigan
 
 north carolina
+@
 n.c. a&t
 
 pittsburgh
+HOME
 akron
 
 smu
+@
 north texas
 
 memphis
+HOME
 kansas
 
 old dominion
+@
 norfolk state
 
 florida
+@
 east carolina
 
 louisiana-monroe
+@
 nicholls state
 
 louisiana-lafayette
+@
 n'western st.
 
 ohio
+@
 marshall
 
 texas state
+@
 prairie view a&m
 
 troy
+@
 charleston so.
 
 oklahoma state
+@
 central arkansas
 
 kentucky
+HOME
 south carolina
 
 texas
+@
 rice
 
 indiana
+@
 florida international
 
 temple
+HOME
 cincinnati
 
 nebraska
+@
 south alabama
 
 georgia state
+HOME
 new mexico state
 
 tulsa
+HOME
 new mexico
 
 air force
+@
 san jose state
 
 stanford
+@
 ucf
 
 arizona state
+@
 cal poly
 
 clemson
+HOME
 louisville
 
 florida state
+HOME
 boston college
 
 boise state
+@
 idaho state
 
 arizona state
+@
 new mexico
 
 ohio state
+@
 northern illinois
 
 mississippi
+HOME
 alabama
 
 tcu
+@
 smu
 
 michigan state
+@
 air force
 
 stanford
+HOME
 usc
 
 georgia
+@
 south carolina
 
 notre dame
+@
 georgia tech
 
 ucla
+@
 byu
 
 oregon
+@
 georgia state
 
 lsu
+@
 auburn
 
 oklahoma
+@
 tulsa
 
 texas a&m
+@
 nevada
 
 arizona
+@
 northern arizona
 
 utah
+HOME
 fresno state
 
 missouri
+@
 connecticut
 
 northwestern
+HOME
 duke
 
 wisconsin
+@
 troy
 
 oklahoma state
+@
 utsa
 
 hawaii
+@
 uc davis
 
 akron
+@
 savannah state
 
 north carolina
+@
 illinois
 
 minnesota
+@
 kent state
 
 buffalo
+HOME
 florida atlantic
 
 wake forest
+HOME
 army
 
 michigan
+@
 unlv
 
 maryland
+@
 south florida
 
 syr
+@
 central michigan
 
 ohio
+@
 southeastern la.
 
 rice
+HOME
 north texas
 
 ball state
+HOME
 eastern michigan
 
 kan st
+@
 latech
 
 temple
+HOME
 massachusetts
 
 memphis
+HOME
 bowling green
 
 cincinnati
+HOME
 miami (ohio)
 
 navy
+@
 east carolina
 
 miami (fla.)
+@
 neb
 
 virginia tech
+HOME
 purdue
 
 marshall
+@
 norfolk state
 
 virginia
+@
 william & mary
 
 mississippi state
+@
 n'western st.
 
 vanderbilt
+@
 austin peay
 
 indiana
+@
 western kentucky
 
 idaho
+@
 wofford
 
 washington
+@
 utah state
 
 furman
+HOME
 ucf
 
 florida international
+@
 north carolina central
 
 georgia southern
+@
 citadel
 
 southern miss
+HOME
 texas state
 
 arkansas state
+@
 missouri state
 
 western michigan
+@
 murray state
 
 texas tech
+HOME
 arkansas
 
 colorado
+HOME
 colorado state
 
 tennessee
+@
 western carolina
 
 north carolina state
+HOME
 old dominion
 
 middle tennessee
+@
 charlotte
 
 california
+HOME
 texas
 
 florida
+HOME
 kentucky
 
 utep
+HOME
 nm st
 
 south alabama
+HOME
 sdsu
 
 tulane
+@
 maine
 
 iowa
+@
 pittsburgh
 
 oregon state
+@
 san jose state
 
 penn state
+@
 rutgers
 
 toledo
+@
 iowast
 
 washington state
+@
 wyoming
 

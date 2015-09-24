@@ -1,920 +1,460 @@
-tcu
-AWAYWIN
-minnesota
-
-georgia tech
-HOMEWIN
-alcorn state
-
-arizona
-HOMEWIN
-utsa
-
-hawaii
-HOMEWIN
-colorado
-
-florida international
-AWAYWIN
-ucf
-
-south carolina
-HOMEWIN
-north carolina
-
-wake forest
-HOMEWIN
-elon
-
-oklahoma state
-AWAYWIN
-central michigan
-
-ball state
-HOMEWIN
-vmi
-
-connecticut
-HOMEWIN
-villanova
-
-western kentucky
-AWAYWIN
-vanderbilt
-
-utah
-HOMEWIN
-michigan
-
-ohio
-AWAYWIN
-idaho
-
-utah state
-HOMEWIN
-southern utah
-
-duke
-AWAYWIN
-tulane
-
-san jose state
-HOMEWIN
-new hampshire
-
-nevada
-HOMEWIN
-uc davis
-
-fresno state
-HOMEWIN
-abilene christian
-
-baylor
-AWAYWIN
-smu
-
-michigan state
-AWAYWIN
-western michigan
-
-boise state
-HOMEWIN
-washington
-
-charlotte
-AWAYWIN
-georgia state
-
-fordham
-AWAYWIN
-army
-
-syracuse
-HOMEWIN
-rhode island
-
-oregon state
-HOMEWIN
-weber state
-
-illinois
-HOMEWIN
-kent state
-
-alabama
-HOMEWIN
-wisconsin
-
-auburn
-HOMEWIN
-louisville
-
-oregon
-HOMEWIN
-eastern wash.
-
-usc
-HOMEWIN
-arkansas state
-
-georgia
-HOMEWIN
-louisiana-monroe
-
-florida state
-HOMEWIN
-texas state
-
-notre dame
-HOMEWIN
-texas
-
-clemson
-HOMEWIN
-wofford
-
-ucla
-HOMEWIN
-virginia
-
-texas a&m
-HOMEWIN
-arizona state
-
-mississippi
-HOMEWIN
-tennessee-martin
-
-arkansas
-HOMEWIN
-utep
-
-oklahoma
-HOMEWIN
-akron
-
-northwestern
-HOMEWIN
-stanford
-
-missouri
-HOMEWIN
-southeast mo. st.
-
-tennessee
-HOMEWIN
-bowling green
-
-navy
-HOMEWIN
-colgate
-
-rutgers
-HOMEWIN
-norfolk state
-
-maryland
-HOMEWIN
-richmond
-
-south dakota state
-AWAYWIN
-kansas
-
-iowa
-HOMEWIN
-illinois state
-
-pittsburgh
-HOMEWIN
-youngstown state
-
-boston college
-HOMEWIN
-maine
-
-portland state
-AWAYWIN
-washington state
-
-appalachian state
-HOMEWIN
-howard
-
-temple
-HOMEWIN
-penn state
-
-tulsa
-HOMEWIN
-fau
-
-byu
-AWAYWIN
-nebraska
-
-rice
-HOMEWIN
-wagner
-
-miami (ohio)
-HOMEWIN
-presbyterian
-
-texas tech
-HOMEWIN
-sam houston st.
-
-air force
-HOMEWIN
-morgan state
-
-old dominion
-AWAYWIN
-eastern michigan
-
-buffalo
-HOMEWIN
-albany
-
-indiana
-HOMEWIN
-southern ill.
-
-colorado state
-HOMEWIN
-savannah state
-
-north dakota
-AWAYWIN
-wyoming
-
-california
-HOMEWIN
-grambling
-
-north carolina state
-HOMEWIN
-troy
-
-east carolina
-HOMEWIN
-towson
-
-south alabama
-HOMEWIN
-gardner-webb
-
-miami (fla.)
-HOMEWIN
-bethune-cookman
-
-memphis
-HOMEWIN
-missouri state
-
-cincinnati
-HOMEWIN
-alabama a&m
-
-kentucky
-HOMEWIN
-louisiana-lafayette
-
-louisiana tech
-HOMEWIN
-southern univ.
-
-new mexico
-HOMEWIN
-miss. valley st.
-
-south florida
-HOMEWIN
-florida a&m
-
-middle tennessee
-HOMEWIN
-jackson state
-
-kansas state
-HOMEWIN
-south dakota
-
-northern illinois
-HOMEWIN
-unlv
-
-florida
-HOMEWIN
-new mexico state
-
-west virginia
-HOMEWIN
-georgia southern
-
-san diego state
-HOMEWIN
-san diego
-
-iowa state
-HOMEWIN
-uni
-
-houston
-HOMEWIN
-tennessee tech
-
-mississippi state
-AWAYWIN
-southern miss
-
-marshall
-HOMEWIN
-purdue
-
-ohio state
-AWAYWIN
-virginia tech
-
-western kentucky
-HOMEWIN
-louisiana tech
-
-utah
-HOMEWIN
-utah state
-
-miami (fla.)
-AWAYWIN
-florida atlantic
-
-ohio state
-HOMEWIN
-hawaii
-
-alabama
-HOMEWIN
-middle tennessee
-
-tcu
-HOMEWIN
-stephen f. austin state
-
-baylor
-HOMEWIN
-lamar
-
-michigan state
-HOMEWIN
-oregon
-
-auburn
-HOMEWIN
-jax st
-
-usc
-HOMEWIN
-idaho
-
-notre dame
-AWAYWIN
-virginia
-
-georgia
-AWAYWIN
-vanderbilt
-
-florida state
-HOMEWIN
-south florida
-
-clemson
-HOMEWIN
-appalachian state
-
-ucla
-AWAYWIN
-unlv
-
-lsu
-AWAYWIN
-mississippi state
-
-georgia tech
-HOMEWIN
-tulane
-
-texas a&m
-HOMEWIN
-ball state
-
-mississippi
-HOMEWIN
-fresno state
-
-toledo
-AWAYWIN
-arkansas
-
-oklahoma
-AWAYWIN
-tennessee
-
-byu
-HOMEWIN
-boise state
-
-missouri
-AWAYWIN
-arkansas state
-
-arizona
-AWAYWIN
-nevada
-
-wisconsin
-HOMEWIN
-miami (ohio)
-
-penn state
-HOMEWIN
-buffalo
-
-purdue
-HOMEWIN
-indiana state
-
-illinois
-HOMEWIN
-western illinois
-
-houston
-AWAYWIN
-louisville
-
-michigan
-HOMEWIN
-oregon state
-
-kansas state
-AWAYWIN
-utsa
-
-charlotte
-HOMEWIN
-presbyterian
-
-connecticut
-HOMEWIN
-army
-
-bowling green
-AWAYWIN
-maryland
-
-syracuse
-HOMEWIN
-wake forest
-
-boston college
-HOMEWIN
-howard
-
-washington
-HOMEWIN
-sacramento st.
-
-colorado
-HOMEWIN
-massachusetts
-
-texas tech
-HOMEWIN
-utep
-
-west virginia
-HOMEWIN
-liberty
-
-central michigan
-HOMEWIN
-monmouth
-
-virginia tech
-HOMEWIN
-furman
-
-southern miss
-HOMEWIN
-austin peay
-
-washington state
-AWAYWIN
-rutgers
-
-northern illinois
-HOMEWIN
-murray state
-
-minn
-AWAYWIN
-colorado state
-
-northwestern
-HOMEWIN
-eastern illinois
-
-eastern michigan
-AWAYWIN
-wyoming
-
-iowa
-AWAYWIN
-iowa state
-
-california
-HOMEWIN
-san diego state
-
-duke
-HOMEWIN
-north carolina central
-
-north carolina state
-HOMEWIN
-eastern kentucky
-
-kent state
-HOMEWIN
-delaware state
-
-georgia southern
-HOMEWIN
-western michigan
-
-north carolina
-HOMEWIN
-n.c. a&t
-
-pittsburgh
-AWAYWIN
-akron
-
-smu
-HOMEWIN
-north texas
-
-memphis
-AWAYWIN
-kansas
-
-old dominion
-HOMEWIN
-norfolk state
-
-florida
-HOMEWIN
-east carolina
-
-louisiana-monroe
-HOMEWIN
-nicholls state
-
-louisiana-lafayette
-HOMEWIN
-n'western st.
-
-ohio
-HOMEWIN
-marshall
-
-texas state
-HOMEWIN
-prairie view a&m
-
-troy
-HOMEWIN
-charleston so.
-
-oklahoma state
-HOMEWIN
-central arkansas
-
-kentucky
-AWAYWIN
-south carolina
-
-texas
-HOMEWIN
-rice
-
-indiana
-HOMEWIN
-florida international
-
-temple
-AWAYWIN
-cincinnati
-
-nebraska
-HOMEWIN
-south alabama
-
-georgia state
-AWAYWIN
-new mexico state
-
-tulsa
-AWAYWIN
-new mexico
-
-air force
-HOMEWIN
-san jose state
-
-stanford
-HOMEWIN
-ucf
-
-arizona state
-HOMEWIN
-cal poly
-
-clemson
-AWAYWIN
-louisville
-
-florida state
-AWAYWIN
-boston college
-
-boise state
-HOMEWIN
-idaho state
-
-arizona state
-HOMEWIN
-new mexico
-
-ohio state
-HOMEWIN
-northern illinois
-
-mississippi
-AWAYWIN
-alabama
-
-tcu
-HOMEWIN
-smu
-
-michigan state
-HOMEWIN
-air force
-
-stanford
-AWAYWIN
-usc
-
-georgia
-HOMEWIN
-south carolina
-
-notre dame
-HOMEWIN
-georgia tech
-
-ucla
-HOMEWIN
-byu
-
-oregon
-HOMEWIN
-georgia state
-
-lsu
-HOMEWIN
-auburn
-
-oklahoma
-HOMEWIN
-tulsa
-
-texas a&m
-HOMEWIN
-nevada
-
-arizona
-HOMEWIN
-northern arizona
-
-utah
-AWAYWIN
-fresno state
-
-missouri
-HOMEWIN
-connecticut
-
-northwestern
-AWAYWIN
-duke
-
-wisconsin
-HOMEWIN
-troy
-
-oklahoma state
-HOMEWIN
-utsa
-
-hawaii
-HOMEWIN
-uc davis
-
-akron
-HOMEWIN
-savannah state
-
-north carolina
-HOMEWIN
-illinois
-
-minnesota
-HOMEWIN
-kent state
-
-buffalo
-AWAYWIN
-florida atlantic
-
-wake forest
-AWAYWIN
-army
-
-michigan
-HOMEWIN
-unlv
-
-maryland
-HOMEWIN
-south florida
-
-syr
-HOMEWIN
-central michigan
-
-ohio
-HOMEWIN
-southeastern la.
-
-rice
-AWAYWIN
-north texas
-
-ball state
-AWAYWIN
-eastern michigan
-
-kan st
-HOMEWIN
-latech
-
-temple
-AWAYWIN
-massachusetts
-
-memphis
-AWAYWIN
-bowling green
-
-cincinnati
-AWAYWIN
-miami (ohio)
-
-navy
-HOMEWIN
-east carolina
-
-miami (fla.)
-HOMEWIN
-neb
-
-virginia tech
-AWAYWIN
-purdue
-
-marshall
-HOMEWIN
-norfolk state
-
-virginia
-HOMEWIN
-william & mary
-
-mississippi state
-HOMEWIN
-n'western st.
-
-vanderbilt
-HOMEWIN
-austin peay
-
-indiana
-HOMEWIN
-western kentucky
-
-idaho
-HOMEWIN
-wofford
-
-washington
-HOMEWIN
-utah state
-
-furman
-AWAYWIN
-ucf
-
-florida international
-HOMEWIN
-north carolina central
-
-georgia southern
-HOMEWIN
-citadel
-
-southern miss
-AWAYWIN
-texas state
-
-arkansas state
-HOMEWIN
-missouri state
-
-western michigan
-HOMEWIN
-murray state
-
-texas tech
-AWAYWIN
-arkansas
-
-colorado
-AWAYWIN
-colorado state
-
-tennessee
-HOMEWIN
-western carolina
-
-north carolina state
-AWAYWIN
-old dominion
-
-middle tennessee
-HOMEWIN
-charlotte
-
-california
-AWAYWIN
-texas
-
-florida
-AWAYWIN
-kentucky
-
-utep
-AWAYWIN
-nm st
-
-south alabama
-AWAYWIN
-sdsu
-
-tulane
-HOMEWIN
-maine
-
-iowa
-HOMEWIN
-pittsburgh
-
-oregon state
-HOMEWIN
-san jose state
-
-penn state
-HOMEWIN
-rutgers
-
-toledo
-HOMEWIN
-iowast
-
-washington state
-HOMEWIN
-wyoming
+tcu AWAYWINOVER minnesota
+
+georgia tech HOMEWINOVER alcorn state
+
+arizona HOMEWINOVER utsa
+
+hawaii HOMEWINOVER colorado
+
+florida international AWAYWINOVER ucf
+
+south carolina HOMEWINOVER north carolina
+
+wake forest HOMEWINOVER elon
+
+oklahoma state AWAYWINOVER central michigan
+
+ball state HOMEWINOVER vmi
+
+connecticut HOMEWINOVER villanova
+
+western kentucky AWAYWINOVER vanderbilt
+
+utah HOMEWINOVER michigan
+
+ohio AWAYWINOVER idaho
+
+utah state HOMEWINOVER southern utah
+
+duke AWAYWINOVER tulane
+
+san jose state HOMEWINOVER new hampshire
+
+nevada HOMEWINOVER uc davis
+
+fresno state HOMEWINOVER abilene christian
+
+baylor AWAYWINOVER smu
+
+michigan state AWAYWINOVER western michigan
+
+boise state HOMEWINOVER washington
+
+charlotte AWAYWINOVER georgia state
+
+fordham AWAYWINOVER army
+
+syracuse HOMEWINOVER rhode island
+
+oregon state HOMEWINOVER weber state
+
+illinois HOMEWINOVER kent state
+
+alabama HOMEWINOVER wisconsin
+
+auburn HOMEWINOVER louisville
+
+oregon HOMEWINOVER eastern wash.
+
+usc HOMEWINOVER arkansas state
+
+georgia HOMEWINOVER louisiana-monroe
+
+florida state HOMEWINOVER texas state
+
+notre dame HOMEWINOVER texas
+
+clemson HOMEWINOVER wofford
+
+ucla HOMEWINOVER virginia
+
+texas a&m HOMEWINOVER arizona state
+
+mississippi HOMEWINOVER tennessee-martin
+
+arkansas HOMEWINOVER utep
+
+oklahoma HOMEWINOVER akron
+
+northwestern HOMEWINOVER stanford
+
+missouri HOMEWINOVER southeast mo. st.
+
+tennessee HOMEWINOVER bowling green
+
+navy HOMEWINOVER colgate
+
+rutgers HOMEWINOVER norfolk state
+
+maryland HOMEWINOVER richmond
+
+south dakota state AWAYWINOVER kansas
+
+iowa HOMEWINOVER illinois state
+
+pittsburgh HOMEWINOVER youngstown state
+
+boston college HOMEWINOVER maine
+
+portland state AWAYWINOVER washington state
+
+appalachian state HOMEWINOVER howard
+
+temple HOMEWINOVER penn state
+
+tulsa HOMEWINOVER fau
+
+byu AWAYWINOVER nebraska
+
+rice HOMEWINOVER wagner
+
+miami (ohio) HOMEWINOVER presbyterian
+
+texas tech HOMEWINOVER sam houston st.
+
+air force HOMEWINOVER morgan state
+
+old dominion AWAYWINOVER eastern michigan
+
+buffalo HOMEWINOVER albany
+
+indiana HOMEWINOVER southern ill.
+
+colorado state HOMEWINOVER savannah state
+
+north dakota AWAYWINOVER wyoming
+
+california HOMEWINOVER grambling
+
+north carolina state HOMEWINOVER troy
+
+east carolina HOMEWINOVER towson
+
+south alabama HOMEWINOVER gardner-webb
+
+miami (fla.) HOMEWINOVER bethune-cookman
+
+memphis HOMEWINOVER missouri state
+
+cincinnati HOMEWINOVER alabama a&m
+
+kentucky HOMEWINOVER louisiana-lafayette
+
+louisiana tech HOMEWINOVER southern univ.
+
+new mexico HOMEWINOVER miss. valley st.
+
+south florida HOMEWINOVER florida a&m
+
+middle tennessee HOMEWINOVER jackson state
+
+kansas state HOMEWINOVER south dakota
+
+northern illinois HOMEWINOVER unlv
+
+florida HOMEWINOVER new mexico state
+
+west virginia HOMEWINOVER georgia southern
+
+san diego state HOMEWINOVER san diego
+
+iowa state HOMEWINOVER uni
+
+houston HOMEWINOVER tennessee tech
+
+mississippi state AWAYWINOVER southern miss
+
+marshall HOMEWINOVER purdue
+
+ohio state AWAYWINOVER virginia tech
+
+western kentucky HOMEWINOVER louisiana tech
+
+utah HOMEWINOVER utah state
+
+miami (fla.) AWAYWINOVER florida atlantic
+
+ohio state HOMEWINOVER hawaii
+
+alabama HOMEWINOVER middle tennessee
+
+tcu HOMEWINOVER stephen f. austin state
+
+baylor HOMEWINOVER lamar
+
+michigan state HOMEWINOVER oregon
+
+auburn HOMEWINOVER jax st
+
+usc HOMEWINOVER idaho
+
+notre dame AWAYWINOVER virginia
+
+georgia AWAYWINOVER vanderbilt
+
+florida state HOMEWINOVER south florida
+
+clemson HOMEWINOVER appalachian state
+
+ucla AWAYWINOVER unlv
+
+lsu AWAYWINOVER mississippi state
+
+georgia tech HOMEWINOVER tulane
+
+texas a&m HOMEWINOVER ball state
+
+mississippi HOMEWINOVER fresno state
+
+toledo AWAYWINOVER arkansas
+
+oklahoma AWAYWINOVER tennessee
+
+byu HOMEWINOVER boise state
+
+missouri AWAYWINOVER arkansas state
+
+arizona AWAYWINOVER nevada
+
+wisconsin HOMEWINOVER miami (ohio)
+
+penn state HOMEWINOVER buffalo
+
+purdue HOMEWINOVER indiana state
+
+illinois HOMEWINOVER western illinois
+
+houston AWAYWINOVER louisville
+
+michigan HOMEWINOVER oregon state
+
+kansas state AWAYWINOVER utsa
+
+charlotte HOMEWINOVER presbyterian
+
+connecticut HOMEWINOVER army
+
+bowling green AWAYWINOVER maryland
+
+syracuse HOMEWINOVER wake forest
+
+boston college HOMEWINOVER howard
+
+washington HOMEWINOVER sacramento st.
+
+colorado HOMEWINOVER massachusetts
+
+texas tech HOMEWINOVER utep
+
+west virginia HOMEWINOVER liberty
+
+central michigan HOMEWINOVER monmouth
+
+virginia tech HOMEWINOVER furman
+
+southern miss HOMEWINOVER austin peay
+
+washington state AWAYWINOVER rutgers
+
+northern illinois HOMEWINOVER murray state
+
+minn AWAYWINOVER colorado state
+
+northwestern HOMEWINOVER eastern illinois
+
+eastern michigan AWAYWINOVER wyoming
+
+iowa AWAYWINOVER iowa state
+
+california HOMEWINOVER san diego state
+
+duke HOMEWINOVER north carolina central
+
+north carolina state HOMEWINOVER eastern kentucky
+
+kent state HOMEWINOVER delaware state
+
+georgia southern HOMEWINOVER western michigan
+
+north carolina HOMEWINOVER n.c. a&t
+
+pittsburgh AWAYWINOVER akron
+
+smu HOMEWINOVER north texas
+
+memphis AWAYWINOVER kansas
+
+old dominion HOMEWINOVER norfolk state
+
+florida HOMEWINOVER east carolina
+
+louisiana-monroe HOMEWINOVER nicholls state
+
+louisiana-lafayette HOMEWINOVER n'western st.
+
+ohio HOMEWINOVER marshall
+
+texas state HOMEWINOVER prairie view a&m
+
+troy HOMEWINOVER charleston so.
+
+oklahoma state HOMEWINOVER central arkansas
+
+kentucky AWAYWINOVER south carolina
+
+texas HOMEWINOVER rice
+
+indiana HOMEWINOVER florida international
+
+temple AWAYWINOVER cincinnati
+
+nebraska HOMEWINOVER south alabama
+
+georgia state AWAYWINOVER new mexico state
+
+tulsa AWAYWINOVER new mexico
+
+air force HOMEWINOVER san jose state
+
+stanford HOMEWINOVER ucf
+
+arizona state HOMEWINOVER cal poly
+
+clemson AWAYWINOVER louisville
+
+florida state AWAYWINOVER boston college
+
+boise state HOMEWINOVER idaho state
+
+arizona state HOMEWINOVER new mexico
+
+ohio state HOMEWINOVER northern illinois
+
+mississippi AWAYWINOVER alabama
+
+tcu HOMEWINOVER smu
+
+michigan state HOMEWINOVER air force
+
+stanford AWAYWINOVER usc
+
+georgia HOMEWINOVER south carolina
+
+notre dame HOMEWINOVER georgia tech
+
+ucla HOMEWINOVER byu
+
+oregon HOMEWINOVER georgia state
+
+lsu HOMEWINOVER auburn
+
+oklahoma HOMEWINOVER tulsa
+
+texas a&m HOMEWINOVER nevada
+
+arizona HOMEWINOVER northern arizona
+
+utah AWAYWINOVER fresno state
+
+missouri HOMEWINOVER connecticut
+
+northwestern AWAYWINOVER duke
+
+wisconsin HOMEWINOVER troy
+
+oklahoma state HOMEWINOVER utsa
+
+hawaii HOMEWINOVER uc davis
+
+akron HOMEWINOVER savannah state
+
+north carolina HOMEWINOVER illinois
+
+minnesota HOMEWINOVER kent state
+
+buffalo AWAYWINOVER florida atlantic
+
+wake forest AWAYWINOVER army
+
+michigan HOMEWINOVER unlv
+
+maryland HOMEWINOVER south florida
+
+syr HOMEWINOVER central michigan
+
+ohio HOMEWINOVER southeastern la.
+
+rice AWAYWINOVER north texas
+
+ball state AWAYWINOVER eastern michigan
+
+kan st HOMEWINOVER latech
+
+temple AWAYWINOVER massachusetts
+
+memphis AWAYWINOVER bowling green
+
+cincinnati AWAYWINOVER miami (ohio)
+
+navy HOMEWINOVER east carolina
+
+miami (fla.) HOMEWINOVER neb
+
+virginia tech AWAYWINOVER purdue
+
+marshall HOMEWINOVER norfolk state
+
+virginia HOMEWINOVER william & mary
+
+mississippi state HOMEWINOVER n'western st.
+
+vanderbilt HOMEWINOVER austin peay
+
+indiana HOMEWINOVER western kentucky
+
+idaho HOMEWINOVER wofford
+
+washington HOMEWINOVER utah state
+
+furman AWAYWINOVER ucf
+
+florida international HOMEWINOVER north carolina central
+
+georgia southern HOMEWINOVER citadel
+
+southern miss AWAYWINOVER texas state
+
+arkansas state HOMEWINOVER missouri state
+
+western michigan HOMEWINOVER murray state
+
+texas tech AWAYWINOVER arkansas
+
+colorado AWAYWINOVER colorado state
+
+tennessee HOMEWINOVER western carolina
+
+north carolina state AWAYWINOVER old dominion
+
+middle tennessee HOMEWINOVER charlotte
+
+california AWAYWINOVER texas
+
+florida AWAYWINOVER kentucky
+
+utep AWAYWINOVER nm st
+
+south alabama AWAYWINOVER sdsu
+
+tulane HOMEWINOVER maine
+
+iowa HOMEWINOVER pittsburgh
+
+oregon state HOMEWINOVER san jose state
+
+penn state HOMEWINOVER rutgers
+
+toledo HOMEWINOVER iowast
+
+washington state HOMEWINOVER wyoming
 

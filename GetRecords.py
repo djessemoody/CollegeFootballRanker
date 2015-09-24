@@ -112,10 +112,10 @@ def doScraping(f,year,week):
 	for y in range(0,len(schedteams)-1,2):
 		if (gameStatus[y/2] != "canceled"):
 			if int(finalscores[x]) > int(finalscores[x+1]):
-				f.write(schedteams[y].rstrip().lower()+'\nAWAYWIN\n')
+				f.write(schedteams[y].rstrip().lower()+' AWAYWINOVER ')
 				f.write(schedteams[y+1].rstrip().lower()+'\n\n')
 			else:
-				f.write(schedteams[y+1].rstrip().lower()+'\nHOMEWIN\n')
+				f.write(schedteams[y+1].rstrip().lower()+' HOMEWINOVER ')
 				f.write(schedteams[y].rstrip().lower()+'\n\n')
 			x += 2
 

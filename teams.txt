@@ -1,0 +1,213 @@
+abilene christian
+air force
+akron
+alabama
+alabama a&m
+albany
+alcorn state
+appalachian state
+arizona
+arizona state
+arkansas
+arkansas state
+army
+auburn
+austin peay
+ball state
+baylor
+bethune-cookman
+boise state
+boston college
+bowling green
+buffalo
+byu
+cal poly
+california
+central arkansas
+central michigan
+charleston so.
+charlotte
+cincinnati
+citadel
+clemson
+colgate
+colorado
+colorado state
+connecticut
+delaware state
+duke
+east carolina
+eastern illinois
+eastern kentucky
+eastern michigan
+eastern wash.
+elon
+fau
+florida
+florida a&m
+florida atlantic
+florida international
+florida state
+fordham
+fresno state
+furman
+gardner-webb
+georgia
+georgia southern
+georgia state
+georgia tech
+grambling
+hawaii
+houston
+howard
+idaho
+idaho state
+illinois
+illinois state
+indiana
+indiana state
+iowa
+iowa state
+iowast
+jackson state
+jax st
+kan st
+kansas
+kansas state
+kent state
+kentucky
+lamar
+latech
+liberty
+louisiana tech
+louisiana-lafayette
+louisiana-monroe
+louisville
+lsu
+maine
+marshall
+maryland
+massachusetts
+mcneese state
+memphis
+miami (fla.)
+miami (ohio)
+michigan
+michigan state
+middle tennessee
+minn
+minnesota
+miss. valley st.
+mississippi
+mississippi state
+missouri
+missouri state
+monmouth
+morgan state
+murray state
+n'western st.
+n.c. a&t
+navy
+neb
+nebraska
+nevada
+new hampshire
+new mexico
+new mexico state
+nicholls state
+nm st
+norfolk state
+north carolina
+north carolina central
+north carolina state
+north dakota
+north texas
+northern arizona
+northern illinois
+northwestern
+notre dame
+ohio
+ohio state
+oklahoma
+oklahoma state
+old dominion
+oregon
+oregon state
+penn state
+pittsburgh
+portland state
+prairie view a&m
+presbyterian
+purdue
+rhode island
+rice
+richmond
+rutgers
+sacramento st.
+sam houston st.
+san diego
+san diego state
+san jose state
+savannah state
+sdsu
+smu
+south alabama
+south carolina
+south dakota
+south dakota state
+south florida
+southeast mo. st.
+southeastern la.
+southern ill.
+southern miss
+southern univ.
+southern utah
+stanford
+stephen f. austin state
+stony brook
+syr
+syracuse
+tcu
+temple
+tennessee
+tennessee tech
+tennessee-martin
+texas
+texas a&m
+texas state
+texas tech
+toledo
+towson
+troy
+tulane
+tulsa
+uc davis
+ucf
+ucla
+uni
+unlv
+usc
+utah
+utah state
+utep
+utsa
+vanderbilt
+villanova
+virginia
+virginia tech
+vmi
+wagner
+wake forest
+washington
+washington state
+weber state
+west virginia
+western carolina
+western illinois
+western kentucky
+western michigan
+william & mary
+wisconsin
+wofford
+wyoming
+youngstown state

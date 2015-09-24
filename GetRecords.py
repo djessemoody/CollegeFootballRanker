@@ -1,6 +1,5 @@
-# This scrapes the records of FBS teams from the NCAA website. Although it fixes
-# some names, you *MUST* verify that they are correct. At times there is a bug
-# where a team name get abbreviated.
+# This scrapes the records of FBS teams from the NCAA website.
+
 
 from lxml import html
 import requests

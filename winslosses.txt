@@ -1,460 +1,289 @@
-tcu AWAYWINOVER minnesota
-
-georgia tech HOMEWINOVER alcorn state
-
-arizona HOMEWINOVER utsa
-
-hawaii HOMEWINOVER colorado
-
-florida international AWAYWINOVER ucf
-
-south carolina HOMEWINOVER north carolina
-
-wake forest HOMEWINOVER elon
-
-oklahoma state AWAYWINOVER central michigan
-
-ball state HOMEWINOVER vmi
-
-connecticut HOMEWINOVER villanova
-
-western kentucky AWAYWINOVER vanderbilt
-
-utah HOMEWINOVER michigan
-
-ohio AWAYWINOVER idaho
-
-utah state HOMEWINOVER southern utah
-
-duke AWAYWINOVER tulane
-
-san jose state HOMEWINOVER new hampshire
-
-nevada HOMEWINOVER uc davis
-
-fresno state HOMEWINOVER abilene christian
-
-baylor AWAYWINOVER smu
-
-michigan state AWAYWINOVER western michigan
-
-boise state HOMEWINOVER washington
-
-charlotte AWAYWINOVER georgia state
-
-fordham AWAYWINOVER army
-
-syracuse HOMEWINOVER rhode island
-
-oregon state HOMEWINOVER weber state
-
-illinois HOMEWINOVER kent state
-
-alabama HOMEWINOVER wisconsin
-
-auburn HOMEWINOVER louisville
-
-oregon HOMEWINOVER eastern wash.
-
-usc HOMEWINOVER arkansas state
-
-georgia HOMEWINOVER louisiana-monroe
-
-florida state HOMEWINOVER texas state
-
-notre dame HOMEWINOVER texas
-
-clemson HOMEWINOVER wofford
-
-ucla HOMEWINOVER virginia
-
-texas a&m HOMEWINOVER arizona state
-
-mississippi HOMEWINOVER tennessee-martin
-
-arkansas HOMEWINOVER utep
-
-oklahoma HOMEWINOVER akron
-
-northwestern HOMEWINOVER stanford
-
-missouri HOMEWINOVER southeast mo. st.
-
-tennessee HOMEWINOVER bowling green
-
-navy HOMEWINOVER colgate
-
-rutgers HOMEWINOVER norfolk state
-
-maryland HOMEWINOVER richmond
-
-south dakota state AWAYWINOVER kansas
-
-iowa HOMEWINOVER illinois state
-
-pittsburgh HOMEWINOVER youngstown state
-
-boston college HOMEWINOVER maine
-
-portland state AWAYWINOVER washington state
-
-appalachian state HOMEWINOVER howard
-
-temple HOMEWINOVER penn state
-
-tulsa HOMEWINOVER fau
-
-byu AWAYWINOVER nebraska
-
-rice HOMEWINOVER wagner
-
-miami (ohio) HOMEWINOVER presbyterian
-
-texas tech HOMEWINOVER sam houston st.
-
-air force HOMEWINOVER morgan state
-
-old dominion AWAYWINOVER eastern michigan
-
-buffalo HOMEWINOVER albany
-
-indiana HOMEWINOVER southern ill.
-
-colorado state HOMEWINOVER savannah state
-
-north dakota AWAYWINOVER wyoming
-
-california HOMEWINOVER grambling
-
-north carolina state HOMEWINOVER troy
-
-east carolina HOMEWINOVER towson
-
-south alabama HOMEWINOVER gardner-webb
-
-miami (fla.) HOMEWINOVER bethune-cookman
-
-memphis HOMEWINOVER missouri state
-
-cincinnati HOMEWINOVER alabama a&m
-
-kentucky HOMEWINOVER louisiana-lafayette
-
-louisiana tech HOMEWINOVER southern univ.
-
-new mexico HOMEWINOVER miss. valley st.
-
-south florida HOMEWINOVER florida a&m
-
-middle tennessee HOMEWINOVER jackson state
-
-kansas state HOMEWINOVER south dakota
-
-northern illinois HOMEWINOVER unlv
-
-florida HOMEWINOVER new mexico state
-
-west virginia HOMEWINOVER georgia southern
-
-san diego state HOMEWINOVER san diego
-
-iowa state HOMEWINOVER uni
-
-houston HOMEWINOVER tennessee tech
-
-mississippi state AWAYWINOVER southern miss
-
-marshall HOMEWINOVER purdue
-
-ohio state AWAYWINOVER virginia tech
-
-western kentucky HOMEWINOVER louisiana tech
-
-utah HOMEWINOVER utah state
-
-miami (fla.) AWAYWINOVER florida atlantic
-
-ohio state HOMEWINOVER hawaii
-
-alabama HOMEWINOVER middle tennessee
-
-tcu HOMEWINOVER stephen f. austin state
-
-baylor HOMEWINOVER lamar
-
-michigan state HOMEWINOVER oregon
-
-auburn HOMEWINOVER jax st
-
-usc HOMEWINOVER idaho
-
-notre dame AWAYWINOVER virginia
-
-georgia AWAYWINOVER vanderbilt
-
-florida state HOMEWINOVER south florida
-
-clemson HOMEWINOVER appalachian state
-
-ucla AWAYWINOVER unlv
-
-lsu AWAYWINOVER mississippi state
-
-georgia tech HOMEWINOVER tulane
-
-texas a&m HOMEWINOVER ball state
-
-mississippi HOMEWINOVER fresno state
-
-toledo AWAYWINOVER arkansas
-
-oklahoma AWAYWINOVER tennessee
-
-byu HOMEWINOVER boise state
-
-missouri AWAYWINOVER arkansas state
-
-arizona AWAYWINOVER nevada
-
-wisconsin HOMEWINOVER miami (ohio)
-
-penn state HOMEWINOVER buffalo
-
-purdue HOMEWINOVER indiana state
-
-illinois HOMEWINOVER western illinois
-
-houston AWAYWINOVER louisville
-
-michigan HOMEWINOVER oregon state
-
-kansas state AWAYWINOVER utsa
-
-charlotte HOMEWINOVER presbyterian
-
-connecticut HOMEWINOVER army
-
-bowling green AWAYWINOVER maryland
-
-syracuse HOMEWINOVER wake forest
-
-boston college HOMEWINOVER howard
-
-washington HOMEWINOVER sacramento st.
-
-colorado HOMEWINOVER massachusetts
-
-texas tech HOMEWINOVER utep
-
-west virginia HOMEWINOVER liberty
-
-central michigan HOMEWINOVER monmouth
-
-virginia tech HOMEWINOVER furman
-
-southern miss HOMEWINOVER austin peay
-
-washington state AWAYWINOVER rutgers
-
-northern illinois HOMEWINOVER murray state
-
-minn AWAYWINOVER colorado state
-
-northwestern HOMEWINOVER eastern illinois
-
-eastern michigan AWAYWINOVER wyoming
-
-iowa AWAYWINOVER iowa state
-
-california HOMEWINOVER san diego state
-
-duke HOMEWINOVER north carolina central
-
-north carolina state HOMEWINOVER eastern kentucky
-
-kent state HOMEWINOVER delaware state
-
-georgia southern HOMEWINOVER western michigan
-
-north carolina HOMEWINOVER n.c. a&t
-
-pittsburgh AWAYWINOVER akron
-
-smu HOMEWINOVER north texas
-
-memphis AWAYWINOVER kansas
-
-old dominion HOMEWINOVER norfolk state
-
-florida HOMEWINOVER east carolina
-
-louisiana-monroe HOMEWINOVER nicholls state
-
-louisiana-lafayette HOMEWINOVER n'western st.
-
-ohio HOMEWINOVER marshall
-
-texas state HOMEWINOVER prairie view a&m
-
-troy HOMEWINOVER charleston so.
-
-oklahoma state HOMEWINOVER central arkansas
-
-kentucky AWAYWINOVER south carolina
-
-texas HOMEWINOVER rice
-
-indiana HOMEWINOVER florida international
-
-temple AWAYWINOVER cincinnati
-
-nebraska HOMEWINOVER south alabama
-
-georgia state AWAYWINOVER new mexico state
-
-tulsa AWAYWINOVER new mexico
-
-air force HOMEWINOVER san jose state
-
-stanford HOMEWINOVER ucf
-
-arizona state HOMEWINOVER cal poly
-
-clemson AWAYWINOVER louisville
-
-florida state AWAYWINOVER boston college
-
-boise state HOMEWINOVER idaho state
-
-arizona state HOMEWINOVER new mexico
-
-ohio state HOMEWINOVER northern illinois
-
-mississippi AWAYWINOVER alabama
-
-tcu HOMEWINOVER smu
-
-michigan state HOMEWINOVER air force
-
-stanford AWAYWINOVER usc
-
-georgia HOMEWINOVER south carolina
-
-notre dame HOMEWINOVER georgia tech
-
-ucla HOMEWINOVER byu
-
-oregon HOMEWINOVER georgia state
-
-lsu HOMEWINOVER auburn
-
-oklahoma HOMEWINOVER tulsa
-
-texas a&m HOMEWINOVER nevada
-
-arizona HOMEWINOVER northern arizona
-
-utah AWAYWINOVER fresno state
-
-missouri HOMEWINOVER connecticut
-
-northwestern AWAYWINOVER duke
-
-wisconsin HOMEWINOVER troy
-
-oklahoma state HOMEWINOVER utsa
-
-hawaii HOMEWINOVER uc davis
-
-akron HOMEWINOVER savannah state
-
-north carolina HOMEWINOVER illinois
-
-minnesota HOMEWINOVER kent state
-
-buffalo AWAYWINOVER florida atlantic
-
-wake forest AWAYWINOVER army
-
-michigan HOMEWINOVER unlv
-
-maryland HOMEWINOVER south florida
-
-syr HOMEWINOVER central michigan
-
-ohio HOMEWINOVER southeastern la.
-
-rice AWAYWINOVER north texas
-
-ball state AWAYWINOVER eastern michigan
-
-kan st HOMEWINOVER latech
-
-temple AWAYWINOVER massachusetts
-
-memphis AWAYWINOVER bowling green
-
-cincinnati AWAYWINOVER miami (ohio)
-
-navy HOMEWINOVER east carolina
-
-miami (fla.) HOMEWINOVER neb
-
-virginia tech AWAYWINOVER purdue
-
-marshall HOMEWINOVER norfolk state
-
-virginia HOMEWINOVER william & mary
-
-mississippi state HOMEWINOVER n'western st.
-
-vanderbilt HOMEWINOVER austin peay
-
-indiana HOMEWINOVER western kentucky
-
-idaho HOMEWINOVER wofford
-
-washington HOMEWINOVER utah state
-
-furman AWAYWINOVER ucf
-
-florida international HOMEWINOVER north carolina central
-
-georgia southern HOMEWINOVER citadel
-
-southern miss AWAYWINOVER texas state
-
-arkansas state HOMEWINOVER missouri state
-
-western michigan HOMEWINOVER murray state
-
-texas tech AWAYWINOVER arkansas
-
-colorado AWAYWINOVER colorado state
-
-tennessee HOMEWINOVER western carolina
-
-north carolina state AWAYWINOVER old dominion
-
-middle tennessee HOMEWINOVER charlotte
-
-california AWAYWINOVER texas
-
-florida AWAYWINOVER kentucky
-
-utep AWAYWINOVER nm st
-
-south alabama AWAYWINOVER sdsu
-
-tulane HOMEWINOVER maine
-
-iowa HOMEWINOVER pittsburgh
-
-oregon state HOMEWINOVER san jose state
-
-penn state HOMEWINOVER rutgers
-
-toledo HOMEWINOVER iowast
-
-washington state HOMEWINOVER wyoming
-
+/schools/tcu AWAYWINOVER /schools/minnesota R
+/schools/georgia-tech HOMEWINOVER /schools/alcorn-st R
+/schools/arizona HOMEWINOVER /schools/utsa R
+/schools/hawaii HOMEWINOVER /schools/colorado R
+/schools/fiu AWAYWINOVER /schools/ucf R
+/schools/south-carolina HOMEWINOVER /schools/north-carolina R
+/schools/wake-forest HOMEWINOVER /schools/elon R
+/schools/oklahoma-st AWAYWINOVER /schools/central-mich R
+/schools/ball-st HOMEWINOVER /schools/vmi R
+/schools/uconn HOMEWINOVER /schools/villanova R
+/schools/western-ky AWAYWINOVER /schools/vanderbilt R
+/schools/utah HOMEWINOVER /schools/michigan R
+/schools/ohio AWAYWINOVER /schools/idaho R
+/schools/utah-st HOMEWINOVER /schools/southern-utah R
+/schools/duke AWAYWINOVER /schools/tulane R
+/schools/san-jose-st HOMEWINOVER /schools/new-hampshire R
+/schools/nevada HOMEWINOVER /schools/uc-davis R
+/schools/fresno-st HOMEWINOVER /schools/abilene-christian R
+/schools/baylor AWAYWINOVER /schools/smu R
+/schools/michigan-st AWAYWINOVER /schools/western-mich R
+/schools/boise-st HOMEWINOVER /schools/washington R
+/schools/charlotte AWAYWINOVER /schools/georgia-st R
+/schools/fordham AWAYWINOVER /schools/army R
+/schools/syracuse HOMEWINOVER /schools/rhode-island R
+/schools/oregon-st HOMEWINOVER /schools/weber-st R
+/schools/illinois HOMEWINOVER /schools/kent-st R
+/schools/alabama HOMEWINOVER /schools/wisconsin R
+/schools/auburn HOMEWINOVER /schools/louisville R
+/schools/oregon HOMEWINOVER /schools/eastern-wash R
+/schools/southern-california HOMEWINOVER /schools/arkansas-st R
+/schools/georgia HOMEWINOVER /schools/la-monroe R
+/schools/florida-st HOMEWINOVER /schools/texas-st R
+/schools/notre-dame HOMEWINOVER /schools/texas R
+/schools/clemson HOMEWINOVER /schools/wofford R
+/schools/ucla HOMEWINOVER /schools/virginia R
+/schools/texas-am HOMEWINOVER /schools/arizona-st R
+/schools/ole-miss HOMEWINOVER /schools/ut-martin R
+/schools/arkansas HOMEWINOVER /schools/utep R
+/schools/oklahoma HOMEWINOVER /schools/akron R
+/schools/northwestern HOMEWINOVER /schools/stanford R
+/schools/missouri HOMEWINOVER /schools/southeast-mo-st R
+/schools/tennessee HOMEWINOVER /schools/bowling-green R
+/schools/navy HOMEWINOVER /schools/colgate R
+/schools/rutgers HOMEWINOVER /schools/norfolk-st R
+/schools/maryland HOMEWINOVER /schools/richmond R
+/schools/south-dakota-st AWAYWINOVER /schools/kansas R
+/schools/iowa HOMEWINOVER /schools/illinois-st R
+/schools/pittsburgh HOMEWINOVER /schools/youngstown-st R
+/schools/boston-college HOMEWINOVER /schools/maine R
+/schools/portland-st AWAYWINOVER /schools/washington-st R
+/schools/appalachian-st HOMEWINOVER /schools/howard R
+/schools/temple HOMEWINOVER /schools/penn-st R
+/schools/tulsa HOMEWINOVER /schools/fla-atlantic R
+/schools/byu AWAYWINOVER /schools/nebraska R
+/schools/rice HOMEWINOVER /schools/wagner R
+/schools/miami-oh HOMEWINOVER /schools/presbyterian R
+/schools/texas-tech HOMEWINOVER /schools/sam-houston-st R
+/schools/air-force HOMEWINOVER /schools/morgan-st R
+/schools/old-dominion AWAYWINOVER /schools/eastern-mich R
+/schools/buffalo HOMEWINOVER /schools/albany-ny R
+/schools/indiana HOMEWINOVER /schools/southern-ill R
+/schools/colorado-st HOMEWINOVER /schools/savannah-st R
+/schools/north-dakota AWAYWINOVER /schools/wyoming R
+/schools/california HOMEWINOVER /schools/grambling R
+/schools/north-carolina-st HOMEWINOVER /schools/troy R
+/schools/east-carolina HOMEWINOVER /schools/towson R
+/schools/south-ala HOMEWINOVER /schools/gardner-webb R
+/schools/miami-fl HOMEWINOVER /schools/bethune-cookman R
+/schools/memphis HOMEWINOVER /schools/missouri-st R
+/schools/cincinnati HOMEWINOVER /schools/alabama-am R
+/schools/kentucky HOMEWINOVER /schools/la-lafayette R
+/schools/louisiana-tech HOMEWINOVER /schools/southern-u R
+/schools/new-mexico HOMEWINOVER /schools/mississippi-val R
+/schools/south-fla HOMEWINOVER /schools/florida-am R
+/schools/middle-tenn HOMEWINOVER /schools/jackson-st R
+/schools/kansas-st HOMEWINOVER /schools/south-dakota R
+/schools/northern-ill HOMEWINOVER /schools/unlv R
+/schools/florida HOMEWINOVER /schools/new-mexico-st R
+/schools/west-virginia HOMEWINOVER /schools/ga-southern R
+/schools/san-diego-st HOMEWINOVER /schools/san-diego R
+/schools/iowa-st HOMEWINOVER /schools/uni R
+/schools/houston HOMEWINOVER /schools/tennessee-tech R
+/schools/mississippi-st AWAYWINOVER /schools/southern-miss R
+/schools/marshall HOMEWINOVER /schools/purdue R
+/schools/ohio-st AWAYWINOVER /schools/virginia-tech R
+/schools/western-ky HOMEWINOVER /schools/louisiana-tech R
+/schools/utah HOMEWINOVER /schools/utah-st R
+/schools/miami-fl AWAYWINOVER /schools/fla-atlantic R
+/schools/ohio-st HOMEWINOVER /schools/hawaii R
+/schools/alabama HOMEWINOVER /schools/middle-tenn R
+/schools/tcu HOMEWINOVER /schools/stephen-f-austin R
+/schools/baylor HOMEWINOVER /schools/lamar R
+/schools/michigan-st HOMEWINOVER /schools/oregon R
+/schools/auburn HOMEWINOVER /schools/jacksonville-st R
+/schools/southern-california HOMEWINOVER /schools/idaho R
+/schools/notre-dame AWAYWINOVER /schools/virginia R
+/schools/georgia AWAYWINOVER /schools/vanderbilt R
+/schools/florida-st HOMEWINOVER /schools/south-fla R
+/schools/clemson HOMEWINOVER /schools/appalachian-st R
+/schools/ucla AWAYWINOVER /schools/unlv R
+/schools/lsu AWAYWINOVER /schools/mississippi-st R
+/schools/georgia-tech HOMEWINOVER /schools/tulane R
+/schools/texas-am HOMEWINOVER /schools/ball-st R
+/schools/ole-miss HOMEWINOVER /schools/fresno-st R
+/schools/toledo AWAYWINOVER /schools/arkansas R
+/schools/oklahoma AWAYWINOVER /schools/tennessee R
+/schools/byu HOMEWINOVER /schools/boise-st R
+/schools/missouri AWAYWINOVER /schools/arkansas-st R
+/schools/arizona AWAYWINOVER /schools/nevada R
+/schools/wisconsin HOMEWINOVER /schools/miami-oh R
+/schools/penn-st HOMEWINOVER /schools/buffalo R
+/schools/purdue HOMEWINOVER /schools/indiana-st R
+/schools/illinois HOMEWINOVER /schools/western-ill R
+/schools/houston AWAYWINOVER /schools/louisville R
+/schools/michigan HOMEWINOVER /schools/oregon-st R
+/schools/kansas-st AWAYWINOVER /schools/utsa R
+/schools/charlotte HOMEWINOVER /schools/presbyterian R
+/schools/uconn HOMEWINOVER /schools/army R
+/schools/bowling-green AWAYWINOVER /schools/maryland R
+/schools/syracuse HOMEWINOVER /schools/wake-forest R
+/schools/boston-college HOMEWINOVER /schools/howard R
+/schools/washington HOMEWINOVER /schools/sacramento-st R
+/schools/colorado HOMEWINOVER /schools/massachusetts R
+/schools/texas-tech HOMEWINOVER /schools/utep R
+/schools/west-virginia HOMEWINOVER /schools/liberty R
+/schools/central-mich HOMEWINOVER /schools/monmouth R
+/schools/virginia-tech HOMEWINOVER /schools/furman R
+/schools/southern-miss HOMEWINOVER /schools/austin-peay R
+/schools/washington-st AWAYWINOVER /schools/rutgers R
+/schools/northern-ill HOMEWINOVER /schools/murray-st R
+/schools/minnesota AWAYWINOVER /schools/colorado-st R
+/schools/northwestern HOMEWINOVER /schools/eastern-ill R
+/schools/eastern-mich AWAYWINOVER /schools/wyoming R
+/schools/iowa AWAYWINOVER /schools/iowa-st R
+/schools/california HOMEWINOVER /schools/san-diego-st R
+/schools/duke HOMEWINOVER /schools/nc-central R
+/schools/north-carolina-st HOMEWINOVER /schools/eastern-ky R
+/schools/kent-st HOMEWINOVER /schools/delaware-st R
+/schools/ga-southern HOMEWINOVER /schools/western-mich R
+/schools/north-carolina HOMEWINOVER /schools/nc-at R
+/schools/pittsburgh AWAYWINOVER /schools/akron R
+/schools/smu HOMEWINOVER /schools/north-texas R
+/schools/memphis AWAYWINOVER /schools/kansas R
+/schools/old-dominion HOMEWINOVER /schools/norfolk-st R
+/schools/florida HOMEWINOVER /schools/east-carolina R
+/schools/la-monroe HOMEWINOVER /schools/nicholls-st R
+/schools/la-lafayette HOMEWINOVER /schools/northwestern-st R
+/schools/ohio HOMEWINOVER /schools/marshall R
+/schools/texas-st HOMEWINOVER /schools/prairie-view R
+/schools/troy HOMEWINOVER /schools/charleston-so R
+/schools/oklahoma-st HOMEWINOVER /schools/central-ark R
+/schools/kentucky AWAYWINOVER /schools/south-carolina R
+/schools/texas HOMEWINOVER /schools/rice R
+/schools/indiana HOMEWINOVER /schools/fiu R
+/schools/temple AWAYWINOVER /schools/cincinnati R
+/schools/nebraska HOMEWINOVER /schools/south-ala R
+/schools/georgia-st AWAYWINOVER /schools/new-mexico-st R
+/schools/tulsa AWAYWINOVER /schools/new-mexico R
+/schools/air-force HOMEWINOVER /schools/san-jose-st R
+/schools/stanford HOMEWINOVER /schools/ucf R
+/schools/arizona-st HOMEWINOVER /schools/cal-poly R
+/schools/clemson AWAYWINOVER /schools/louisville R
+/schools/florida-st AWAYWINOVER /schools/boston-college R
+/schools/boise-st HOMEWINOVER /schools/idaho-st R
+/schools/arizona-st HOMEWINOVER /schools/new-mexico R
+/schools/ohio-st HOMEWINOVER /schools/northern-ill R
+/schools/ole-miss AWAYWINOVER /schools/alabama R
+/schools/tcu HOMEWINOVER /schools/smu R
+/schools/michigan-st HOMEWINOVER /schools/air-force R
+/schools/stanford AWAYWINOVER /schools/southern-california R
+/schools/georgia HOMEWINOVER /schools/south-carolina R
+/schools/notre-dame HOMEWINOVER /schools/georgia-tech R
+/schools/ucla HOMEWINOVER /schools/byu R
+/schools/oregon HOMEWINOVER /schools/georgia-st R
+/schools/lsu HOMEWINOVER /schools/auburn R
+/schools/oklahoma HOMEWINOVER /schools/tulsa R
+/schools/texas-am HOMEWINOVER /schools/nevada R
+/schools/arizona HOMEWINOVER /schools/northern-ariz R
+/schools/utah AWAYWINOVER /schools/fresno-st R
+/schools/missouri HOMEWINOVER /schools/uconn R
+/schools/northwestern AWAYWINOVER /schools/duke R
+/schools/wisconsin HOMEWINOVER /schools/troy R
+/schools/oklahoma-st HOMEWINOVER /schools/utsa R
+/schools/hawaii HOMEWINOVER /schools/uc-davis R
+/schools/akron HOMEWINOVER /schools/savannah-st R
+/schools/north-carolina HOMEWINOVER /schools/illinois R
+/schools/minnesota HOMEWINOVER /schools/kent-st R
+/schools/buffalo AWAYWINOVER /schools/fla-atlantic R
+/schools/wake-forest AWAYWINOVER /schools/army R
+/schools/michigan HOMEWINOVER /schools/unlv R
+/schools/maryland HOMEWINOVER /schools/south-fla R
+/schools/syracuse HOMEWINOVER /schools/central-mich R
+/schools/ohio HOMEWINOVER /schools/southeastern-la R
+/schools/rice AWAYWINOVER /schools/north-texas R
+/schools/ball-st AWAYWINOVER /schools/eastern-mich R
+/schools/kansas-st HOMEWINOVER /schools/louisiana-tech R
+/schools/temple AWAYWINOVER /schools/massachusetts R
+/schools/memphis AWAYWINOVER /schools/bowling-green R
+/schools/cincinnati AWAYWINOVER /schools/miami-oh R
+/schools/navy HOMEWINOVER /schools/east-carolina R
+/schools/miami-fl HOMEWINOVER /schools/nebraska R
+/schools/virginia-tech AWAYWINOVER /schools/purdue R
+/schools/marshall HOMEWINOVER /schools/norfolk-st R
+/schools/virginia HOMEWINOVER /schools/william-mary R
+/schools/mississippi-st HOMEWINOVER /schools/northwestern-st R
+/schools/vanderbilt HOMEWINOVER /schools/austin-peay R
+/schools/indiana HOMEWINOVER /schools/western-ky R
+/schools/idaho HOMEWINOVER /schools/wofford R
+/schools/washington HOMEWINOVER /schools/utah-st R
+/schools/furman AWAYWINOVER /schools/ucf R
+/schools/fiu HOMEWINOVER /schools/nc-central R
+/schools/ga-southern HOMEWINOVER /schools/citadel R
+/schools/southern-miss AWAYWINOVER /schools/texas-st R
+/schools/arkansas-st HOMEWINOVER /schools/missouri-st R
+/schools/western-mich HOMEWINOVER /schools/murray-st R
+/schools/texas-tech AWAYWINOVER /schools/arkansas R
+/schools/colorado AWAYWINOVER /schools/colorado-st R
+/schools/tennessee HOMEWINOVER /schools/western-caro R
+/schools/north-carolina-st AWAYWINOVER /schools/old-dominion R
+/schools/middle-tenn HOMEWINOVER /schools/charlotte R
+/schools/california AWAYWINOVER /schools/texas R
+/schools/florida AWAYWINOVER /schools/kentucky R
+/schools/utep AWAYWINOVER /schools/new-mexico-st R
+/schools/south-ala AWAYWINOVER /schools/san-diego-st R
+/schools/tulane HOMEWINOVER /schools/maine R
+/schools/iowa HOMEWINOVER /schools/pittsburgh R
+/schools/oregon-st HOMEWINOVER /schools/san-jose-st R
+/schools/penn-st HOMEWINOVER /schools/rutgers R
+/schools/toledo HOMEWINOVER /schools/iowa-st R
+/schools/washington-st HOMEWINOVER /schools/wyoming R
+/schools/memphis HOMEWINOVER /schools/cincinnati R
+/schools/stanford AWAYWINOVER /schools/oregon-st R
+/schools/boise-st AWAYWINOVER /schools/virginia R
+/schools/ohio-st HOMEWINOVER /schools/western-mich R
+/schools/michigan-st HOMEWINOVER /schools/central-mich R
+/schools/tcu AWAYWINOVER /schools/texas-tech R
+/schools/ole-miss HOMEWINOVER /schools/vanderbilt R
+/schools/baylor HOMEWINOVER /schools/rice R
+/schools/notre-dame HOMEWINOVER /schools/massachusetts R
+/schools/georgia HOMEWINOVER /schools/southern-u R
+/schools/lsu AWAYWINOVER /schools/syracuse R
+/schools/ucla AWAYWINOVER /schools/arizona R
+/schools/alabama HOMEWINOVER /schools/la-monroe R
+/schools/utah AWAYWINOVER /schools/oregon R
+/schools/texas-am AWAYWINOVER /schools/arkansas R
+/schools/northwestern HOMEWINOVER /schools/ball-st R
+/schools/southern-california AWAYWINOVER /schools/arizona-st R
+/schools/duke HOMEWINOVER /schools/georgia-tech R
+/schools/michigan HOMEWINOVER /schools/byu R
+/schools/wisconsin HOMEWINOVER /schools/hawaii R
+/schools/oklahoma-st AWAYWINOVER /schools/texas R
+/schools/kentucky HOMEWINOVER /schools/missouri R
+/schools/bowling-green AWAYWINOVER /schools/purdue R
+/schools/nebraska HOMEWINOVER /schools/southern-miss R
+/schools/south-carolina HOMEWINOVER /schools/ucf R
+/schools/rutgers HOMEWINOVER /schools/kansas R
+/schools/navy AWAYWINOVER /schools/uconn R
+/schools/indiana AWAYWINOVER /schools/wake-forest R
+/schools/north-carolina HOMEWINOVER /schools/delaware R
+/schools/boston-college HOMEWINOVER /schools/northern-ill R
+/schools/colorado HOMEWINOVER /schools/nicholls-st R
+/schools/louisiana-tech HOMEWINOVER /schools/fiu R
+/schools/west-virginia HOMEWINOVER /schools/maryland R
+/schools/new-mexico AWAYWINOVER /schools/wyoming R
+/schools/minnesota HOMEWINOVER /schools/ohio R
+/schools/western-ky HOMEWINOVER /schools/miami-oh R
+/schools/marshall AWAYWINOVER /schools/kent-st R
+/schools/appalachian-st AWAYWINOVER /schools/old-dominion R
+/schools/penn-st HOMEWINOVER /schools/san-diego-st R
+/schools/iowa HOMEWINOVER /schools/north-texas R
+/schools/florida HOMEWINOVER /schools/tennessee R
+/schools/nevada AWAYWINOVER /schools/buffalo R
+/schools/east-carolina HOMEWINOVER /schools/virginia-tech R
+/schools/illinois HOMEWINOVER /schools/middle-tenn R
+/schools/california AWAYWINOVER /schools/washington R
+/schools/army AWAYWINOVER /schools/eastern-mich R
+/schools/louisville HOMEWINOVER /schools/samford R
+/schools/colorado-st AWAYWINOVER /schools/utsa R
+/schools/fla-atlantic AWAYWINOVER /schools/charlotte R
+/schools/james-madison AWAYWINOVER /schools/smu R
+/schools/toledo HOMEWINOVER /schools/arkansas-st R
+/schools/akron AWAYWINOVER /schools/la-lafayette R
+/schools/mississippi-st AWAYWINOVER /schools/auburn R
+/schools/houston HOMEWINOVER /schools/texas-st R
+/schools/utep HOMEWINOVER /schools/incarnate-word R
+/schools/north-carolina-st AWAYWINOVER /schools/south-ala R
+/schools/ga-southern AWAYWINOVER /schools/idaho R
+/schools/unlv HOMEWINOVER /schools/idaho-st R
+/schools/san-jose-st HOMEWINOVER /schools/fresno-st R

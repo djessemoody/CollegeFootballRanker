@@ -139,14 +139,14 @@ def doScraping(f,year,week):
 				if (week == 'P'):
 					f.write(' P\n')
 				else:
-					f.write(' R\n')
+					f.write(' ' + str(week) + ' \n')
 			else:
 				f.write(schedteams[y+1].rstrip().lower().replace(" ","")+' HOMEWINOVER ')
 				f.write(schedteams[y].rstrip().lower().replace(" ",""))
 				if (week == 'P'):
 					f.write(' P\n')
 				else:
-					f.write(' R\n')
+					f.write(' ' + str(week) + ' \n')
 			x += 2
 
 

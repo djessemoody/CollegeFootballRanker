@@ -17,9 +17,9 @@ class Team:
             self.strength = self.totalgames + self.wins - self.losses
         def strengthpass(self,xvalue,weeksinyear):
             for game in self.games:
-                #gameweight = 0.5*game.week/weeksinyear + .5
-                gameweight = 1.0*game.week/weeksinyear
-                gameweight = 1.0
+                gameweight = 0.5*game.week/weeksinyear + .5
+                #gameweight = 1.0*game.week/weeksinyear
+                #gameweight = 1.0
                 if (game.postseason == True):
 
                     if (self.name == game.hometeam.name):
@@ -36,9 +36,9 @@ class Team:
                 elif (self.name == game.hometeam.name):
 
                     if (game.result == 0):
-                        self.strength += gameweight*1.0*max(game.awayteam.strength,0)/xvalue
+                        self.strength += gameweight*0.75*max(game.awayteam.strength,0)/xvalue
                     else:
-                        self.strength -= gameweight*2.0*max(game.hometeam.strength - game.awayteam.strength,0)/xvalue
+                        self.strength -= gameweight*1.25*max(game.hometeam.strength - game.awayteam.strength,0)/xvalue
 
                 elif (self.name == game.awayteam.name):
                     if (game.result ==1):

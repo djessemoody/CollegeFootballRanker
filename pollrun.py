@@ -79,7 +79,6 @@ for team in teamstextlist:
     i += 1
 
 for game in gamestextlist:
-
     game = game.rstrip().split(" ")
     if (game[1] == "HOMEWINOVER" ):
         result = 0
@@ -124,11 +123,10 @@ for team in teamsList:
 
 
 
-
-xval=973
+xval=5000
 for _ in range(xval):
     for team in teamsList:
-        team.strengthpass(xval,16)
+        team.strengthpass(xval,6)
 
 
 teamsList = sorted(teamsList,key=attrgetter('strength'),reverse=True)

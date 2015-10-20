@@ -19,6 +19,7 @@ bethune-cookman
 boise-st
 boston-college
 bowling-green
+bucknell
 buffalo
 byu
 cal-poly

@@ -24,27 +24,27 @@ class Team:
 
                     if (self.name == game.hometeam.name):
                         if (game.result == 0):
-                            self.strength += 1.0*max(game.awayteam.strength,0)/xvalue
+                            self.strength += 1.0*max(game.awayteam.strength,self.strength/weeksinyear/2)/xvalue
                         else:
-                            self.strength -= 0*max(game.awayteam.strength,0)/xvalue
+                            self.strength -= 0*max(game.awayteam.strength,self.strength/weeksinyear/2)/xvalue
 
                     if (self.name == game.awayteam.name):
                         if (game.result ==1):
-                            self.strength += 1.0*max(game.hometeam.strength,0)/xvalue
+                            self.strength += 1.0*max(game.hometeam.strength,self.strength/weeksinyear/2)/xvalue
                         else:
-                            self.strength -= 0.0*max(game.hometeam.strength,0)/xvalue
+                            self.strength -= 0.0*max(game.hometeam.strength,self.strength/weeksinyear/2)/xvalue
                 elif (self.name == game.hometeam.name):
 
                     if (game.result == 0):
-                        self.strength += gameweight*0.75*max(game.awayteam.strength,0)/xvalue
+                        self.strength += gameweight*0.75*max(game.awayteam.strength,self.strength/weeksinyear/2)/xvalue
                     else:
-                        self.strength -= gameweight*1.25*max(game.hometeam.strength - game.awayteam.strength,0)/xvalue
+                        self.strength -= gameweight*1.25*max(game.hometeam.strength - game.awayteam.strength,self.strength/weeksinyear/2)/xvalue
 
                 elif (self.name == game.awayteam.name):
                     if (game.result ==1):
-                        self.strength += gameweight*1.25*max(game.hometeam.strength,0)/xvalue
+                        self.strength += gameweight*1.25*max(game.hometeam.strength,self.strength/weeksinyear/2)/xvalue
                     else:
-                        self.strength -= gameweight*.75*max(game.awayteam.strength - game.hometeam.strength,0)/xvalue
+                        self.strength -= gameweight*.75*max(game.awayteam.strength - game.hometeam.strength,self.strength/weeksinyear/2)/xvalue
 
 
         def showdataonotherteams(self):
@@ -126,7 +126,7 @@ for team in teamsList:
 xval=5000
 for _ in range(xval):
     for team in teamsList:
-        team.strengthpass(xval,6)
+        team.strengthpass(xval,7)
 
 
 teamsList = sorted(teamsList,key=attrgetter('strength'),reverse=True)

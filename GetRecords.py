@@ -4,6 +4,7 @@
 from lxml import html
 import requests
 import sys
+import os
 
 
 def doScraping(f,year,week):
@@ -63,8 +64,10 @@ year = sys.argv[1]
 year = int(year)
 
 allteams = []
-f = open("winslosses.txt","w")
-ftwo = open("teams.txt","w")
+if not os.path.exists(sys.argv[1]):
+    os.makedirs(sys.argv[1])
+f = open(sys.argv[1]+"/winslosses.txt","w")
+ftwo = open(sys.argv[1]+"/teams.txt","w")
 for week in range(1,thisweek+1):
     doScraping(f,year,str(week))
 if year != 2015:

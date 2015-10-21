@@ -63,8 +63,8 @@ class Game:
             self.week = 0
 
 
-gamestextlist = list(open("winslosses.txt","r"))
-teamstextlist = list(open("teams.txt","r"))
+gamestextlist = list(open(sys.argv[1]+"/winslosses.txt","r"))
+teamstextlist = list(open(sys.argv[1]+"/teams.txt","r"))
 
 
 
@@ -131,10 +131,11 @@ for _ in range(xval):
 
 teamsList = sorted(teamsList,key=attrgetter('strength'),reverse=True)
 listsize = 25
-
+rankingstextlist = open(sys.argv[1]+"/rankings.txt","w+")
 i = 1
 for team in teamsList[:listsize]:
     #print(vars(team).items())
     print('#' +  str(i) + ': ' + team.name + ': record: ' + str(team.wins) + '-' + str(team.losses) + ": Strength=" + str(team.strength))
+    rankingstextlist.write('#' +  str(i) + ': ' + team.name + ': record: ' + str(team.wins) + '-' + str(team.losses) + ": Strength=" + str(team.strength) + '\n')
     i+=1
     #team.showdataonotherteams()

@@ -126,7 +126,7 @@ for team in teamsList:
 xval=5000
 for _ in range(xval):
     for team in teamsList:
-        team.strengthpass(xval,7)
+        team.strengthpass(xval,8)
 
 
 teamsList = sorted(teamsList,key=attrgetter('strength'),reverse=True)

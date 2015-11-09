@@ -126,7 +126,7 @@ for team in teamsList:
 xval=5000
 for _ in range(xval):
     for team in teamsList:
-        team.strengthpass(xval,8)
+        team.strengthpass(xval,10)
 
 
 teamsList = sorted(teamsList,key=attrgetter('strength'),reverse=True)
@@ -136,6 +136,9 @@ i = 1
 for team in teamsList[:listsize]:
     #print(vars(team).items())
     print('#' +  str(i) + ': ' + team.name + ': record: ' + str(team.wins) + '-' + str(team.losses) + ": Strength=" + str(team.strength))
-    rankingstextlist.write('#' +  str(i) + ': ' + team.name + ': record: ' + str(team.wins) + '-' + str(team.losses) + ": Strength=" + str(team.strength) + '\n')
     i+=1
     #team.showdataonotherteams()
+i=1
+for team in teamsList[:100]:
+    rankingstextlist.write('#' +  str(i) + ': ' + team.name + ': record: ' + str(team.wins) + '-' + str(team.losses) + ": Strength=" + str(team.strength) + '\n')
+    i+=1

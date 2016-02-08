@@ -28,6 +28,7 @@ central-ark
 central-mich
 charleston-so
 charlotte
+chattanooga
 cincinnati
 citadel
 clemson

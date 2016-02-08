@@ -70,7 +70,7 @@ f = open(sys.argv[1]+"/winslosses.txt","w")
 ftwo = open(sys.argv[1]+"/teams.txt","w")
 for week in range(1,thisweek+1):
     doScraping(f,year,str(week))
-if year != 2015:
+if year != 2016:
 	doScraping(f,year,'16')
 	doScraping(f,year,'P')
 allteams = sorted(allteams)

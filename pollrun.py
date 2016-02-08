@@ -15,11 +15,12 @@ class Team:
 
         def startingstrength(self):
             self.strength = self.totalgames + self.wins - self.losses
+            self.strength = 100
         def strengthpass(self,xvalue,weeksinyear):
             for game in self.games:
-                gameweight = 0.5*game.week/weeksinyear + .5
+                #gameweight = 0.5*game.week/weeksinyear + .5
                 #gameweight = 1.0*game.week/weeksinyear
-                #gameweight = 1.0
+                gameweight = 1.0
                 if (game.postseason == True):
 
                     if (self.name == game.hometeam.name):
@@ -36,15 +37,15 @@ class Team:
                 elif (self.name == game.hometeam.name):
 
                     if (game.result == 0):
-                        self.strength += gameweight*0.75*max(game.awayteam.strength,self.strength/weeksinyear/2)/xvalue
+                        self.strength += gameweight*1.0*max(game.awayteam.strength,self.strength/weeksinyear/2)/xvalue
                     else:
-                        self.strength -= gameweight*1.25*max(game.hometeam.strength - game.awayteam.strength,self.strength/weeksinyear/2)/xvalue
+                        self.strength -= gameweight*3.0*max(game.hometeam.strength - game.awayteam.strength,self.strength/weeksinyear/2)/xvalue
 
                 elif (self.name == game.awayteam.name):
                     if (game.result ==1):
                         self.strength += gameweight*1.25*max(game.hometeam.strength,self.strength/weeksinyear/2)/xvalue
                     else:
-                        self.strength -= gameweight*.75*max(game.awayteam.strength - game.hometeam.strength,self.strength/weeksinyear/2)/xvalue
+                        self.strength -= gameweight*1.5*max(game.awayteam.strength - game.hometeam.strength,self.strength/weeksinyear/2)/xvalue
 
 
         def showdataonotherteams(self):
@@ -126,7 +127,7 @@ for team in teamsList:
 xval=5000
 for _ in range(xval):
     for team in teamsList:
-        team.strengthpass(xval,11)
+        team.strengthpass(xval,13)
 
 
 teamsList = sorted(teamsList,key=attrgetter('strength'),reverse=True)

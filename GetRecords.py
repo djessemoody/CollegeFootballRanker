@@ -1,6 +1,6 @@
 # This scrapes the records of FBS teams from the NCAA website.
 #modified from wesbarnett/cfb record Scraper
-
+#2017 data needs to be tested
 from lxml import html
 import requests
 import sys
